@@ -14,3 +14,5 @@ Hello Git
 qdqdq
 
 some line for very bad branch
+
+TEST cancel
